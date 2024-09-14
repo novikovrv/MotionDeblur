@@ -151,6 +151,8 @@ if __name__ == '__main__':
     cap = cv2.VideoCapture("test_videoimx477_Exposition500000.mp4")
     frames = extract_frames(cap, 1, 4)
     print(frames)
+    print("kghcik")
+    print( 5 + 10)
     # args = parser.parse_args()
     #
     # cap = cv2.VideoCapture(args.video_path)
