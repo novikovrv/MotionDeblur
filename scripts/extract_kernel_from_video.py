@@ -153,6 +153,7 @@ if __name__ == '__main__':
     print(frames)
     print("kghcik")
     print( 5 + 10)
+    print( 10 + 10)
     # args = parser.parse_args()
     #
     # cap = cv2.VideoCapture(args.video_path)
